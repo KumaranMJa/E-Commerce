@@ -285,8 +285,9 @@ a {
   color: var(--navbar_text) !important;
 }
 .navbar a,span,li,i,button {
-  color: var(--navbar_text) !important;
+  color: var(--navbar_text) ;
 }
+
 .navbar a:hover {
   color: var(--link_hover_color);
 }
